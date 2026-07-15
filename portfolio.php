@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Justiniane, Quennie J | Business Systems Analyst & Full-Stack Developer</title>
+<meta name="description"
+content="Business Systems Analyst and Full-Stack Developer portfolio showcasing case studies, web applications, and software development projects.">
+<meta name="keywords"
+content="Business Systems Analyst, Full Stack Developer, Portfolio, Web Developer">
+
+<meta name="author"
+content="Justiniane, Quennie J">
+<meta property="og:title"
+content="Justiniane, Quennie J | Business Systems Analyst and Full-Stack Developer Portfolio">
+
+<meta property="og:description"
+content="Business Systems Analyst and Full-Stack Web Developer Portfolio.">
+<meta property="og:image"
+content="htdocs.png">
+<meta property="og:type"
+content="website">
+<link rel="icon"
+type="image/png"
+href="logo.png">
+<link rel="stylesheet" href="">
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<header>
+
+<nav>
+
+    <h2 class="logo">QJ.</h2>
+
+    <ul class="nav-links">
+
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+
+    </ul>
+  <div class="nav-actions">
+
+        <button id="theme-toggle" class="theme-toggle">
+
+            <i class='bx bx-sun'></i>
+
+        </button>
+
+        <div class="menu-toggle">
+
+            <i class='bx bx-menu'></i>
+
+        </div>
+
+    </div>
+
+</nav>
+
+</header>
+<section class="hero" id="home">
+
+    <div class="hero-content">
+
+        <p class="hero-greeting">Hi, I'm</p>
+
+        <h1>
+            Justiniane,Quennie J.
+        </h1>
+
+        <h2>
+            Aspiring Business Systems Analyst
+            <span>& Web Developer</span>
+        </h2>
+
+        <p class="hero-description">
+            I analyze business processes, design efficient system workflows,
+            and develop web applications that solve real-world business
+            challenges and improve organizational efficiency.
+        </p>
+
+        <div class="hero-buttons">
+            <a href="#projects" class="btn-primary">
+                View My Work
+            </a>
+
+            <a href="#about" class="btn-secondary">
+                About Me
+            </a>
+        </div>
+
+    </div>
+
+</section>
+<section class="about section" id="about">
+
+    <div class="section-header">
+
+        <span class="section-subtitle">ABOUT</span>
+
+        <h2 class="section-title">Who I Am</h2>
+
+    </div>
+
+    <div class="about-content">
+
+        <p class="about-text">
+            I am a Computer Science graduate with a strong interest in
+            Business Systems Analysis and Web Development. I enjoy creating
+            systems that solve real-world problems and improve business
+            processes.
+
+            <br><br>
+
+            I am continuously expanding my knowledge in business analysis,
+            web development, and problem-solving to build efficient,
+            user-focused, and impactful digital solutions.
+        </p>
+
+    </div>
+
+</section>
+<section id="skills">
+
+    <div class="section-header">
+        <span class="section-subtitle">SKILLS</span>
+        <h2 class="section-title">What I Do</h2>
+    </div>
+
+    <div class="cards">
+
+        <div class="card glass-card">
+
+            <div class="icon">
+                <i class='bx bx-briefcase-alt-2'></i>
+            </div>
+
+            <h3>Business Analysis</h3>
+
+            <p>
+                Analyze business requirements, document processes,
+                and create system solutions.
+            </p>
+
+            <div class="tech-stack">
+                <span>Requirements</span>
+                <span>Process Analysis</span>
+                <span>Business Rules</span>
+                <span>Documentation</span>
+            </div>
+
+        </div>
+
+        <div class="card glass-card">
+
+            <div class="icon">
+                <i class='bx bx-sitemap'></i>
+            </div>
+
+            <h3>System Design</h3>
+
+            <p>
+                Design system workflows and database structures using UML.
+            </p>
+
+            <div class="tech-stack">
+                <span>Use Case Diagram</span>
+                <span>Activity Diagram</span>
+                <span>ERD</span>
+            </div>
+
+        </div>
+
+        <div class="card glass-card">
+
+            <div class="icon">
+                <i class='bx bx-code-alt'></i>
+            </div>
+
+            <h3>Web Development</h3>
+
+            <p>
+                Build responsive web applications using modern web technologies.
+            </p>
+
+            <div class="tech-stack">
+                <span>HTML</span>
+                <span>CSS</span>
+                <span>JavaScript</span>
+                <span>PHP</span>
+                <span>MySQL</span>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+<section class="projects section" id="projects">
+
+    <div class="section-header">
+
+        <span class="section-subtitle">PROJECTS</span>
+
+        <h2 class="section-title">Featured Projects</h2>
+
+        <p class="section-description">
+            A collection of projects demonstrating my skills in
+            business analysis, system design, and web development.
+        </p>
+
+    </div>
+
+    <div class="projects-grid">
+
+        <!-- Project 1 -->
+
+        <article class="project-card glass-card">
+
+            <div class="project-image">
+
+                <img src="clearance.png" alt="E-Clearance Management System">
+
+                <div class="project-overlay">
+
+                    <a href="eclearance.html" class="project-btn">
+                        View Case Study
+                    </a>
+
+                </div>
+
+            </div>
+
+            <div class="project-content">
+
+                <h3>E-Clearance Management System</h3>
+
+                <p>
+                   A web-based system that digitizes the clearance process of St. Clare College of Caloocan by enabling students, clearing offices, department heads, and administrators to manage clearance requests efficiently.
+                </p>
+
+                <div class="project-tags">
+
+                    <span>Business Analysis</span>
+                    <span>HTML</span>
+                    <span>CSS</span>
+                    <span>JavaScript</span>
+                    <span>PHP</span>
+                    <span>MySQL</span>
+
+                </div>
+
+            </div>
+
+        </article>
+
+        <!-- Project 2 -->
+
+        <article class="project-card glass-card">
+
+            <div class="project-image">
+
+                <img src="seat-generator.png" alt="Inventory System">
+
+                <div class="project-overlay">
+
+                    <a href="#" class="project-btn">
+                        View Case Study
+                    </a>
+
+                </div>
+
+            </div>
+
+            <div class="project-content">
+<h3>Smart Classroom Seat Generator</h3>
+
+<p>
+    A free web-based classroom seating generator that
+    helps teachers create fair, organized, and customizable
+    seating arrangements in just a few clicks.
+</p>
+                <div class="project-tags">
+                    <span>HTML5</span>
+                    <span>CSS3</span>
+                    <span>Javascript(Vanilla)</span>
+                    <span>html2canvas</span>
+                    <span>jsPDF</span>
+
+                </div>
+
+            </div>
+
+        </article>
+
+        <!-- Project 3 -->
+
+        <article class="project-card glass-card">
+
+            <div class="project-image">
+
+                <img src="three.png" alt="HR System">
+
+                <div class="project-overlay">
+
+                    <a href="#" class="project-btn">
+                        In Development
+                    </a>
+
+                </div>
+
+            </div>
+
+            <div class="project-content">
+
+                <h3>Children Development Management System</h3>
+
+                <p>
+                      A web-based management system designed to streamline
+            children's records, progress monitoring, assessments,
+            and report management for childcare and development
+            centers.
+                </p>
+
+                <div class="project-tags">
+
+                    <span>HTML</span>
+                    <span>CSS</span>
+                    <span>JavaScript</span>
+                    <span>PHP</span>
+                    <span>MySQL</span>
+
+                </div>
+<p class="project-note">
+
+    Currently under active development.
+    Case study and live demo will be available upon completion.
+
+</p>
+            </div>
+
+        </article>
+
+    </div>
+
+</section>
+<section class="contact section" id="contact">
+
+    <div class="section-header">
+
+        <span class="section-subtitle">CONTACT</span>
+
+        <h2 class="section-title">Let's Connect</h2>
+
+        <p class="section-description">
+            I'm currently looking for opportunities as a Business Systems
+            Analyst and Web Developer. Feel free to reach out if you'd like
+            to discuss a project or collaborate.
+        </p>
+
+    </div>
+
+    <div class="contact-links">
+
+        <a href="mailto:your@email.com">
+            <i class='bx bx-envelope'></i>
+            your@email.com
+        </a>
+
+        <a href="https://github.com/yourusername" target="_blank">
+            <i class='bx bxl-github'></i>
+            GitHub
+        </a>
+
+        <a href="https://linkedin.com/in/yourusername" target="_blank">
+            <i class='bx bxl-linkedin-square'></i>
+            LinkedIn
+        </a>
+    </div>
+
+</section>
+<script src="script.js"></script>
+</body>
+</html>
