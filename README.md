@@ -21,7 +21,6 @@ This portfolio highlights my projects, case studies, and technical skills in Bus
 - MYSQL
 
 ## Live Demo
-https://portfolio-a41i0q0dr-quennie.vercel.app
-
+https://portfolio-three-sigma-87.vercel.app/
 ## Author
 Quennie
