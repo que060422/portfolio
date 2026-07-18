@@ -44,42 +44,4 @@ menu.addEventListener("click",()=>{
     }
 
 });
-/*======================
-      THEME
-=======================*/
 
-const themeToggle =
-document.getElementById("theme-toggle");
-
-const themeIcon =
-themeToggle.querySelector("i");
-
-if(localStorage.getItem("theme")==="light"){
-
-    document.body.classList.add("light");
-
-    themeIcon.className="bx bx-moon";
-
-}
-
-themeToggle.addEventListener("click",()=>{
-
-    document.body.classList.toggle("light");
-
-    if(document.body.classList.contains("light")){
-
-        themeIcon.className="bx bx-moon";
-
-        localStorage.setItem("theme","light");
-
-    }
-
-    else{
-
-        themeIcon.className="bx bx-sun";
-
-        localStorage.setItem("theme","dark");
-
-    }
-
-});
