@@ -1,11 +1,18 @@
 :root{
 
     /* ======================
-            SUNSET VIEW
+          SUNSET VIEW
     ====================== */
 
-    --primary:#C78997;
-    --primary-light:#F5B297;
+    /* Primary */
+    --primary:#F5E4C4;
+    --primary-light:#F5D6A2;
+
+    /* Secondary / Accent */
+    --secondary:#F5D6A2;
+    --accent-rose:#C78997;
+    --accent-peach:#F5B297;
+    --accent-blue:#8A99B1;
 
     /* Background */
     --background:#F5E4C4;
@@ -21,21 +28,19 @@
     --gray:#8A99B1;
 
     /* Cards */
-    --card:rgba(255,255,255,.72);
+    --card:rgba(255,255,255,.70);
 
     /* Buttons */
-    --button-secondary-bg:rgba(255,255,255,.55);
+    --button-secondary-bg:#F5D6A2;
     --button-secondary-color:#3F3437;
 
     /* Border */
-    --border:rgba(199,137,151,.30);
+    --border:rgba(138,153,177,.28);
 
     /* Shadow */
-    --shadow:0 10px 25px rgba(138,153,177,.18);
+    --shadow:0 10px 25px rgba(63,52,55,.10);
 
 }
-
-
 /* ======================
         GLOBAL
 ====================== */
