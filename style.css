@@ -1,41 +1,41 @@
 :root{
 
     /* ======================
-          EVENING MIX
+       BURGUNDY + CREAM
     ====================== */
 
     /* Brand */
-    --primary:#3D5387;
-    --primary-light:#7C83AD;
+    --primary:#641E2A;
+    --primary-light:#8F3F4D;
 
     /* Secondary Accent */
-    --secondary:#BFA9BA;
+    --secondary:#E8DCCF;
 
     /* Background */
-    --background:#0E0D15;
-    --surface:#182346;
-    --surface-alt:#3D5387;
+    --background:#F7F3EE;
+    --surface:#FFFFFF;
+    --surface-alt:#E8DCCF;
 
     /* Text */
-    --text:#F5F3F6;
-    --text-secondary:#B8B6C0;
+    --text:#2B171B;
+    --text-secondary:#765F63;
 
     /* Additional Text */
     --white:#FFFFFF;
-    --gray:#B8B6C0;
+    --gray:#765F63;
 
     /* Card */
-    --card:rgba(24,35,70,.65);
+    --card:rgba(255,255,255,.78);
 
     /* Buttons */
-    --button-secondary-bg:rgba(61,83,135,.25);
-    --button-secondary-color:#F5F3F6;
+    --button-secondary-bg:#E8DCCF;
+    --button-secondary-color:#3B1118;
 
     /* Border */
-    --border:rgba(124,131,173,.25);
+    --border:rgba(100,30,42,.18);
 
     /* Shadow */
-    --shadow:0 10px 25px rgba(14,13,21,.35);
+    --shadow:0 10px 25px rgba(59,17,24,.10);
 
 }
 /* ======================
