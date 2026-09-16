@@ -1,42 +1,36 @@
-:root{
+:root {
+    /* Main Colors */
+    --primary: #5F2E1B;
+    --primary-light: #7A4229;
 
-    /* ======================
-       BURGUNDY + CHAMPAGNE
-    ====================== */
+    /* Accent */
+    --secondary: #1A2324;
+    --accent: #BFA58F;
 
-    /* Brand */
-    --primary:#651F2B;
-    --primary-light:#9C5962;
-
-    /* Secondary Accent */
-    --secondary:#C9A66B;
-
-    /* Background */
-    --background:#F4EBDD;
-    --surface:#FFFDF9;
-    --surface-alt:#E8D8C3;
+    /* Backgrounds */
+    --background: #020403;
+    --surface: #141413;
+    --surface-alt: #1A2324;
 
     /* Text */
-    --text:#2B171B;
-    --text-secondary:#75676A;
+    --text: #F5F2ED;
+    --text-secondary: #A9A5A0;
 
-    /* Additional Text */
-    --white:#FFFFFF;
-    --gray:#75676A;
+    --white: #FFFFFF;
+    --gray: #8F8B87;
 
-    /* Card */
-    --card:rgba(255,253,249,.78);
+    /* Cards */
+    --card: rgba(26, 35, 36, 0.72);
 
     /* Buttons */
-    --button-secondary-bg:#E8D8C3;
-    --button-secondary-color:#3B171E;
+    --button-secondary-bg: #1A2324;
+    --button-secondary-color: #F5F2ED;
 
-    /* Border */
-    --border:rgba(101,31,43,.18);
+    /* Borders */
+    --border: rgba(191, 165, 143, 0.18);
 
     /* Shadow */
-    --shadow:0 10px 25px rgba(43,23,27,.12);
-
+    --shadow: 0 10px 30px rgba(0, 0, 0, 0.45);
 }
 /* ======================
         GLOBAL
