@@ -1,44 +1,41 @@
 :root{
 
     /* ======================
-          SUNSET VIEW
+          EVENING MIX
     ====================== */
 
-    /* Primary */
-    --primary:#F5E4C4;
-    --primary-light:#F5D6A2;
+    /* Brand */
+    --primary:#3D5387;
+    --primary-light:#7C83AD;
 
-    /* Secondary / Accent */
-    --secondary:#F5D6A2;
-    --accent-rose:#C78997;
-    --accent-peach:#F5B297;
-    --accent-blue:#8A99B1;
+    /* Secondary Accent */
+    --secondary:#BFA9BA;
 
     /* Background */
-    --background:#F5E4C4;
-    --surface:#FFFFFF;
-    --surface-alt:#F5D6A2;
+    --background:#0E0D15;
+    --surface:#182346;
+    --surface-alt:#3D5387;
 
     /* Text */
-    --text:#3F3437;
-    --text-secondary:#8A99B1;
+    --text:#F5F3F6;
+    --text-secondary:#B8B6C0;
 
     /* Additional Text */
     --white:#FFFFFF;
-    --gray:#8A99B1;
+    --gray:#B8B6C0;
 
-    /* Cards */
-    --card:rgba(255,255,255,.70);
+    /* Card */
+    --card:rgba(24,35,70,.65);
 
     /* Buttons */
-    --button-secondary-bg:#F5D6A2;
-    --button-secondary-color:#3F3437;
+    --button-secondary-bg:rgba(61,83,135,.25);
+    --button-secondary-color:#F5F3F6;
 
     /* Border */
-    --border:rgba(138,153,177,.28);
+    --border:rgba(124,131,173,.25);
 
     /* Shadow */
-    --shadow:0 10px 25px rgba(63,52,55,.10);
+    --shadow:0 10px 25px rgba(14,13,21,.35);
 
 }
 /* ======================
