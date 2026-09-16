@@ -1,41 +1,41 @@
 :root{
 
     /* ======================
-       BURGUNDY + MIDNIGHT
+       BURGUNDY + CHAMPAGNE
     ====================== */
 
     /* Brand */
-    --primary:#702C3B;
-    --primary-light:#A87580;
+    --primary:#651F2B;
+    --primary-light:#9C5962;
 
     /* Secondary Accent */
-    --secondary:#E8D9D5;
+    --secondary:#C9A66B;
 
     /* Background */
-    --background:#120D12;
-    --surface:#241418;
-    --surface-alt:#3A1720;
+    --background:#F4EBDD;
+    --surface:#FFFDF9;
+    --surface-alt:#E8D8C3;
 
     /* Text */
-    --text:#F5EFED;
-    --text-secondary:#B9A9AC;
+    --text:#2B171B;
+    --text-secondary:#75676A;
 
     /* Additional Text */
     --white:#FFFFFF;
-    --gray:#B9A9AC;
+    --gray:#75676A;
 
     /* Card */
-    --card:rgba(58,23,32,.62);
+    --card:rgba(255,253,249,.78);
 
     /* Buttons */
-    --button-secondary-bg:rgba(112,44,59,.25);
-    --button-secondary-color:#F5EFED;
+    --button-secondary-bg:#E8D8C3;
+    --button-secondary-color:#3B171E;
 
     /* Border */
-    --border:rgba(168,117,128,.24);
+    --border:rgba(101,31,43,.18);
 
     /* Shadow */
-    --shadow:0 10px 30px rgba(0,0,0,.35);
+    --shadow:0 10px 25px rgba(43,23,27,.12);
 
 }
 /* ======================
