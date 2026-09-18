@@ -1,16 +1,21 @@
 # Portfolio
 
-My personal portfolio showcasing Business Systems Analysis and Full-Stack Web Development projects.
+My personal portfolio featuring web development, system analysis, data analytics, and technology projects.
 
 ## About
 
-This portfolio highlights my projects, case studies, and technical skills in Business Systems Analysis and Web Development.
+This portfolio showcases my projects, case studies, and technical work focused on creating practical digital solutions for users and businesses.
 
 ## Featured Projects
 
 - E-Clearance Management System
 - Smart Classroom Seat Generator
 - Children Development Management System *(In Development)*
+- Data Professional Survey Breakdown Dashboard
+- Airbnb Data Analysis & Dashboard
+- Bike Sales Data Analysis & Dashboard
+- Automatic File Sorter
+- BMI Calculator
 
 ## Technologies
 
@@ -18,9 +23,12 @@ This portfolio highlights my projects, case studies, and technical skills in Bus
 - CSS3
 - JavaScript
 - PHP
-- MYSQL
+- MySQL
+- Microsoft Excel
+- Power BI
+- Tableau
+- Python
 
 ## Live Demo
-https://portfolio-three-sigma-87.vercel.app/
-## Author
-Quennie
+
+https://portfol.app/
